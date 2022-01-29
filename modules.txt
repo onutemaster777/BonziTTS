@@ -1,0 +1,8 @@
+Install discord.js in node command line.
+Install os-utils in node command line.
+Install puppeteer in node command line.
+
+This about to be a few minutes.
+
+If you don't have any voices installed, you can remove voices and save your space, and run the discord bot.
+You need token in developers page, just add application and make a bot.

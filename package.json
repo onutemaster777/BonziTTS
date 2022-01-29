@@ -1,0 +1,20 @@
+{
+  "name": "bonzibot",
+  "version": "1.2.0",
+  "description": "A simple bonzi bot.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "espeak": "^0.0.3",
+    "google-translate-api": "^2.3.0",
+    "os-utils": "0.0.14",
+    "puppeteer": "^8.0.0",
+    "socket.io-client": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
