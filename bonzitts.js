@@ -512,4 +512,4 @@ client.on('message', (message) => {
     if(args[1]) return message.reply("This is not only you.");
   }
 });
-client.login('ODkwOTg4Njc3ODY4Njk5NjY5.YU3z3g.8xD5TFf_iejBzo9i6xsir3W1cKY');
+client.login('yourtoken');

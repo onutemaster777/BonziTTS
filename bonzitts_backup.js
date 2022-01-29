@@ -509,4 +509,4 @@ client.on('message', (message) => {
     if(args[1]) return message.reply("array error");
   }
 });
-client.login('ODU2NTQ0ODU2NzQ2NjIyOTc2.YNCljw.cqjaoof-EbOYU0ZOGg7ONB8tIBc');
+client.login('yourtoken');

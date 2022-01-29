@@ -513,4 +513,4 @@ client.on('message', (message) => {
     if(args[1]) return message.reply("array error");
   }
 });
-client.login('ODkwOTg5OTg3NzM3MjYwMDY0.YU31Fg.9HiKeVfRWpsuZIEDdeIZH_ExCtw');
+client.login('yourtoken');
